@@ -1,14 +1,9 @@
 /*
 *                       threads.h
 *
-*	Authors:			Jacob Loden, Nathan Chancellor
-*						CSE330
-*						Fall 2016
-*						Tu, Thurs
+*	Authors:			Jacob Loden
 *
-*	Description:	    Project 4
-*
-*						Functions to create, initialize, run and print processor threads
+*	Description:	   	Functions to create, initialize, run and print processor threads
 *
 */
 #include "q.h"
