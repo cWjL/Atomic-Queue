@@ -1,14 +1,9 @@
 /*
 *                       sem.h
 *
-*	Authors:			Jacob Loden, Nathan Chancellor
-*						CSE330
-*						Fall 2016
-*						Tu, Thurs
+*	Authors:			Jacob Loden
 *
-*	Description:	    Project 4
-*
-*						Semaphore implementation.
+*	Description:	   	Semaphore implementation.
 *
 *						InitSem(semaphore, value): Function to initialize the value field
 *						of created semaphore structure.
