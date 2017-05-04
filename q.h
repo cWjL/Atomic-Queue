@@ -1,14 +1,9 @@
 /*
 *                       q.h
 *
-*	Authors:			Jacob Loden, Nathan Chancellor
-*						CSE330
-*						Fall 2016
-*						Tu, Thurs
+*	Authors:			Jacob Loden
 *
-*	Description:	    Project 4
-*
-*						Creates new, adds elements to, and returns first element of queue data structure.
+*	Description:	    Creates new, adds elements to, and returns first element of queue data structure.
 *						Queue follows a circular doubly linked list structure, with the first element being a
 *						blank "dummy" element pointed to by the "head" pointer.
 *
